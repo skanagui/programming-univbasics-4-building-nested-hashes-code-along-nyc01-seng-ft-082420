@@ -1,4 +1,4 @@
-require_relative 'spec_helper'
+  require_relative 'spec_helper'
 require_relative '../lib/04_fourth_challenge.rb'
 
 describe "fourth_challenge" do
